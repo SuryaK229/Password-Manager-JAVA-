@@ -1,25 +1,28 @@
-Password Manager (Java)
+# **Password Manager (Java)**
 
-A Java-based Password Manager application developed using Java Servlets, JSP (JavaServer Pages), and JDBC for secure password storage and management. The application is deployed locally and leverages Java fundamentals for efficient and secure operations.
+**A Java-based Password Manager application developed using Java Servlets, JSP (JavaServer Pages), and JDBC for secure password storage and management. The application is deployed locally and leverages Java fundamentals for efficient and secure operations.**
 
-Features
+## **Features**
 
-Secure storage of user credentials.
+- **Secure storage of user credentials.**  
+- **Add, update, delete, and retrieve saved passwords.**  
+- **User authentication system for data protection.**  
+- **Intuitive web-based user interface built with JSP.**  
+- **JDBC integration for database operations.**  
 
-Add, update, delete, and retrieve saved passwords.
+## **Tech Stack**
 
-User authentication system for data protection.
+- **Backend:** Java Servlets, JDBC  
+- **Frontend:** JSP (JavaServer Pages), HTML, CSS  
+- **Database:** MySQL  
+- **Server:** Apache Tomcat (Local Deployment)  
 
-Intuitive web-based user interface built with JSP.
+## **Setup Instructions**
 
-JDBC integration for database operations.
+### **Prerequisites**
 
-Tech Stack
+- JDK installed (Java Development Kit)  
+- Apache Tomcat Server  
+- MySQL Database  
+- IDE (e.g., Eclipse, IntelliJ IDEA)  
 
-Backend: Java Servlets, JDBC
-
-Frontend: JSP (JavaServer Pages), HTML, CSS
-
-Database: MySQL
-
-Server: Apache Tomcat (Local Deployment)
