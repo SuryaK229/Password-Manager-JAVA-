@@ -14,7 +14,7 @@
 
 - **Backend:** Java Servlets, JDBC  
 - **Frontend:** JSP (JavaServer Pages), HTML, CSS  
-- **Database:** MySQL  
+- **Database:** PostgreSQL  
 - **Server:** Apache Tomcat (Local Deployment)  
 
 ## **Setup Instructions**
@@ -23,6 +23,14 @@
 
 - JDK installed (Java Development Kit)  
 - Apache Tomcat Server  
-- MySQL Database  
-- IDE (e.g., Eclipse, IntelliJ IDEA)  
+- PostgreSQL Database  
+- IDE (e.g., Eclipse, IntelliJ IDEA)
+- Deploy to Tomcat Server
+- Import the project into your IDE.
+- Deploy the project on Apache Tomcat.
 
+## **Final Step**
+- Start the server.
+- Access the Application
+- Open your browser and visit:
+- http://localhost:8080/Password-Manager
